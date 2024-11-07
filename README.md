@@ -33,11 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This is a simple blog website built with React. It allows users to create, read, update and
 
-## Description
-
-This is a simple blog website built with React. It allows users to create, read, update and
-delete blog posts.
-
 ## Features
 
 - Create new blog posts
